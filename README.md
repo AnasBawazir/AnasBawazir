@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasbawazir&label=Profile%20views&color=0e75b6&style=flat" alt="anasbawazir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasbawazir" alt="anasbawazir" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/anasbawazir" target="blank"><img src="https://img.shields.io/twitter/follow/anasbawazir?logo=twitter&style=for-the-badge" alt="anasbawazir" /></a> </p>
 
 - 🔭 I’m currently working on **Laravel and Flutter**
@@ -15,7 +13,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **a.n.a.s.30@hotmail.com**
+- 📫 How to reach me **a.n.a.s.30@hotmail.com** , <a href="https://t.me/AnasBawazir">Telegram</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
