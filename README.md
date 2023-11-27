@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasbawazir&label=Profile%20views&color=0e75b6&style=flat" alt="anasbawazir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anasbawazir" target="blank"><img src="https://img.shields.io/twitter/follow/anasbawazir?logo=twitter&style=for-the-badge" alt="anasbawazir" /></a> </p>
 
 - 🔭 I’m currently working on **Laravel and Flutter**
 
@@ -19,7 +18,7 @@
 <p align="left">
 <a href="https://t.me/AnasBawazir" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="AnasBawazir" height="30" width="40" /></a>
 <a href="https://codepen.io/anasbawazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anasbawazir" height="30" width="40" /></a>
-<a href="https://twitter.com/anasbawazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasbawazir" height="30" width="40" /></a>
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasbawazir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anas-bawazir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-bawazir/" height="30" width="40" /></a>
 </p>
 
