@@ -1,8 +1,6 @@
 <h1 align="center">I'm Anas Bawazir</h1>
 <h3 align="center">full stack developer and a real security man</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasbawazir&label=Profile%20views&color=0e75b6&style=flat" alt="anasbawazir" /> </p>
-
 
 - 🔭 I’m currently working on **Laravel and Flutter**
 
