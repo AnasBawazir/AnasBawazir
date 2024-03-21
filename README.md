@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://t.me/AnasBawazir" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="AnasBawazir" height="30" width="40" /></a>
 <a href="https://codepen.io/anasbawazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anasbawazir" height="30" width="40" /></a>
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasbawazir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anas-bawazir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-bawazir/" height="30" width="40" /></a>
 </p>
 
